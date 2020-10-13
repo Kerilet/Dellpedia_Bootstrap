@@ -1,16 +1,33 @@
-<<<<<<< HEAD
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #EFEFEF;
+}
+
 body .bread-pitt {
     margin: 12px 0px;
 }
 
 body .icon-type {
-    height: 30px;
-=======
-body .evos {
-    color: white;
+    height: 40px;
+    width: 40px;
 }
 
-body .types {
-    max-width: 10%;
->>>>>>> e704ac4adb23b7dc404663e307e99087f21b6c35
+body .info-numbers {
+    margin-top: 50px;
+}
+
+body .info-text h2 {
+    font-size: 16px;
+}
+
+body .content-right .card {
+    margin-bottom: 20px;
+}
+
+body .stats {
+    margin-top: 42px;
+}
+
+body .stats .row {
+    margin-bottom: 10px;
 }
