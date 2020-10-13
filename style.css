@@ -31,3 +31,12 @@ body .stats {
 body .stats .row {
     margin-bottom: 10px;
 }
+
+body .search-card {
+    margin-bottom: 15px;
+}
+
+body .search-card a{
+    text-decoration: none;
+    color: #000000;
+}
