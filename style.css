@@ -40,3 +40,43 @@ body .search-card a{
     text-decoration: none;
     color: #000000;
 }
+
+body .new-info textarea {
+    border: 1px solid #CFD4D9;
+    resize: none;
+}
+
+body .types {
+    border: 1px solid #999999;
+    margin-top: 19px;
+    margin-bottom: 13px;
+}
+
+body .types input {
+    margin-right: 10px;
+}
+
+body .statistics textarea{
+    border: 1px solid #CFD4D9;
+    resize: none;
+}
+
+body .new-image {
+    border-radius: 600%;
+}
+
+body .insert-evo {
+    margin-left: 33px;
+    margin-top: 15px;
+}
+
+body .insert-evo textarea{
+    border: 1px solid #CFD4D9;
+    resize: none; 
+}
+
+body .description textarea {
+    border: 1px solid #CFD4D9;
+    resize: none;
+    width: 100%;
+}
